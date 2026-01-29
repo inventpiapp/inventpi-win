@@ -17,6 +17,8 @@
 ![Release](https://img.shields.io/badge/release-v2.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-success)
 ![Future](https://img.shields.io/badge/Linux%20%7C%20macOS-Planned-lightgrey)
+![Status](https://img.shields.io/badge/status-Stable-success)
+
 </div>
 
 ---
