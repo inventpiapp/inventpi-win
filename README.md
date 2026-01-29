@@ -19,6 +19,8 @@
 ![Future](https://img.shields.io/badge/Linux%20%7C%20macOS-Planned-lightgrey)
 ![Status](https://img.shields.io/badge/status-Stable-success)
 
+
+<a href=""><img width="800" alt="" src="/assets/screenshots/snap1.jpg"></a>
 </div>
 
 ---
