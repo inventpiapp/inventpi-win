@@ -188,4 +188,8 @@ If problems continue, please contact InventPi support and mention which file you
 - Use **`win_InventPi_2.0.0_portable.exe`** if you prefer a single‑file, no‑install version (for example on a USB stick).
 - Optionally install **`InventPiCert.cer`** if you continue to see signing / SmartScreen warnings and want Windows to better recognize InventPi executables as trusted.
 
-This document is specifically for the **Windows** release of InventPi version **2.0.0**.
+## 8. Support 🤝
+- For any questions, issues, or feedback, please visit our [GitHub Issues page](https://github.com/inventpiapp/inventpi-win/issues) 💬.
+- You can also reach out to our support team at [inventpi.info@gmail.com](mailto:inventpi.info@gmail.com) 📧.
+- Check our [FAQ section](https://github.com/inventpiapp/inventpi-win/wiki/FAQ) for common questions and solutions ❓.
+
