@@ -33,6 +33,7 @@ With an intuitive interface and powerful features, InventPi streamlines your bus
 # 📦 Installation Guide
 
 This guide explains how to download, verify, and run the InventPi app on Windows using the official release files:
+
 👉 **[Download Latest Release](https://github.com/inventpiapp/inventpi-win/releases/tag/latest)**
 
 - `win_InventPi_2.0.0_installer.exe`
