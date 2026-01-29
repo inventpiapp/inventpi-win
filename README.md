@@ -13,23 +13,20 @@
   <i>Invention Driven by Passion and Intelligence</i>
   <img src="https://avatars.githubusercontent.com/u/257929584?s=48&v=4" width="25" height="25" />
 </h3>
-</div>
+
 ![Release](https://img.shields.io/badge/release-v2.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-success)
-![Future Support](https://img.shields.io/badge/Linux%20%7C%20macOS-Planned-lightgrey)
+![Future](https://img.shields.io/badge/Linux%20%7C%20macOS-Planned-lightgrey)
+</div>
 
 ---
 
-## <img alt="" src="https://avatars.githubusercontent.com/u/257929584?s=48&v=4" />  InventPi App
+##  🪟 InventPi Windows App
 InventPi is a comprehensive inventory and billing solution specifically designed to support growing businesses. Our application helps you manage your inventory, process sales, generate bills, and track your business performance with ease.
 
 With an intuitive interface and powerful features, InventPi streamlines your business operations, allowing you to focus on what matters most - growing your business.
 
-## InventPi-Windows 🪟
-Windows desktop client for InventPi — a smart inventory, billing, and business management platform for growing businesses.
-
-
-# InventPi for Windows – Installation Guide 
+# Installation Guide 
 
 This guide explains how to download, verify, and run the InventPi app on Windows using the official release files:
 
@@ -43,7 +40,7 @@ There is also an **optional** file stored in the **InventPi Git repository** (no
 
 ---
 
-## 1. Downloading InventPi
+## 1. Downloading InventPi ⬇️
 
 1. Open the official InventPi release page.
 2. In the **Assets** section for version `2.0.0`, download the following **EXE files**:
@@ -55,9 +52,9 @@ There is also an **optional** file stored in the **InventPi Git repository** (no
 
 ---
 
-## 2. Installer vs Portable – Which one should I use?
+## 2. Installer vs Portable – Which one should I use? 🤔
 
-### 2.1 `win_InventPi_2.0.0_installer.exe` (Recommended)
+### 2.1 `win_InventPi_2.0.0_installer.exe` (Recommended) ✅
 
 Use this if you:
 
@@ -71,7 +68,7 @@ What it does:
 - Creates shortcuts in the **Start Menu** and optionally on the **Desktop**.
 - Registers InventPi properly so you can uninstall it from **“Apps & Features”** in Windows settings.
 
-### 2.2 `win_InventPi_2.0.0_portable.exe` (Portable version)
+### 2.2 `win_InventPi_2.0.0_portable.exe` (Portable version) 📁
 
 Use this if you:
 
@@ -89,7 +86,7 @@ If you are not sure which one to choose, use the **installer version**.
 
 ---
 
-## 3. Optional: Installing the Code‑Signing Certificate (`InventPiCert.cer`)
+## 3. Optional: Installing the Code‑Signing Certificate (`InventPiCert.cer`) 🔐
 
 This section is **optional**. In many cases you can install and run InventPi without doing this.
 
@@ -119,7 +116,7 @@ After this, Windows will treat InventPi builds signed with this certificate as m
 
 ---
 
-## 4. Installing InventPi using the Installer EXE (Recommended)
+## 4. Installing InventPi using the Installer EXE (Recommended) 🛠️
 
 Follow these steps for `win_InventPi_2.0.0_installer.exe`:
 
@@ -129,11 +126,11 @@ Follow these steps for `win_InventPi_2.0.0_installer.exe`:
 4. If Windows shows a security prompt (SmartScreen or "Do you want to allow this app to make changes?"), review the publisher information and then click **Yes** / **Run anyway** if it matches InventPi.
 5. Follow the on‑screen installer steps:
    - Choose the installation folder (you can usually accept the default).
-   - Keep **“Create Desktop Shortcut”** checked if you want a desktop icon.
+   - Keep **“Create Desktop Shortcut”** checked if you want a desktop icon 📁.
    - Click **Install** and wait for the process to complete.
 6. When installation is finished, click **Finish**.
 
-### 4.1 Starting InventPi after installation
+### 4.1 Starting InventPi after installation 🚀
 
 You can start InventPi in several ways:
 
@@ -144,7 +141,7 @@ The app will start, open its main window, and be ready to use.
 
 ---
 
-## 5. Using the Portable EXE
+## 5. Using the Portable EXE 🚀
 
 If you chose `win_InventPi_2.0.0_portable.exe`:
 
@@ -161,9 +158,9 @@ Notes:
 
 ---
 
-## 6. Troubleshooting
+## 6. Troubleshooting ⚠️
 
-- **Windows SmartScreen warning**
+- **Windows SmartScreen warning** ⚠️
   - Click **More info** → verify the publisher → click **Run anyway** (only if you downloaded the file from the official InventPi release page).
   - If warnings continue to appear frequently, you can **optionally** install `InventPiCert.cer` as described above to help Windows recognize InventPi.
 
@@ -179,7 +176,7 @@ If problems continue, please contact InventPi support and mention which file you
 
 ---
 
-## 7. Summary
+## 7. Summary 📌
 
 - Use **`win_InventPi_2.0.0_installer.exe`** for a normal, fully installed Windows app with shortcuts and an uninstaller.
 - Use **`win_InventPi_2.0.0_portable.exe`** if you prefer a single‑file, no‑install version (for example on a USB stick).
