@@ -92,20 +92,20 @@ If you are not sure which one to choose, use the **installer version**.
 
 ---
 
-## 3. Optional: Installing the Code‑Signing Certificate (`InventPiCert.cer`) 🔐
+## 3. Optional: Installing the Code‑Signing Certificate(`InventPiCert.cer`) 🔐
 
 This section is **optional**. In many cases you can install and run InventPi without doing this.
 
 However, if you continue to see signing or SmartScreen warnings even after confirming the app is from the official InventPi release page, installing the `InventPiCert.cer` certificate can help Windows better recognize InventPi as a trusted application.
 
-### 3.1 Download the certificate from the Git repository (only if needed)
+### 3.1 Download the certificate from the Git repository (only if needed) 💾
 
 1. Open the official InventPi Git code repository in your browser.
 2. Locate the `InventPiCert.cer` file (for example in a `cert` or `security` folder).
 3. Download `InventPiCert.cer` **only if you are still seeing trust / signing warnings**.
 4. Save it in the same folder as the EXE files (for example `Downloads`).
 
-### 3.2 Install the certificate (Current User)
+### 3.2 Install the certificate (Current User) 📝
 
 1. Locate the file `InventPiCert.cer` in File Explorer.
 2. **Right‑click** on the file and select **Install Certificate…**.
@@ -147,7 +147,7 @@ The app will start, open its main window, and be ready to use.
 
 ---
 
-## 5. Using the Portable EXE 🚀
+## 5. Using the Portable EXE 🏃
 
 If you chose `win_InventPi_2.0.0_portable.exe`:
 
